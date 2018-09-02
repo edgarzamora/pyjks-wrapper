@@ -1,0 +1,7 @@
+jks:
+    password_file_path: /keystore/pass/path
+    keystore_path: /keystore/path
+    salt_alias: "alias"
+    use_salt: False
+
+
